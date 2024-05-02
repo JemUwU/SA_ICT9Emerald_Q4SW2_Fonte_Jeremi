@@ -1,0 +1,33 @@
+#PL {
+	height: 90px;
+	width: 200px;
+	display: flex;
+	margin: auto;
+}
+#D {
+	background-color: lightgreen;
+}
+#P {
+	background-color: lightpink;
+}
+#MP {
+	background-color: lightyellow;
+}
+#M {
+	background-color: lightskyblue;
+}
+button {
+	height: 79px;
+	width: 209px;
+	margin: auto;
+	display: flex;
+}
+body {
+	background-repeat: no-repeat;
+	background-image: url('PGB.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+}
+h1 {
+	text-align: center;
+}
